@@ -1,4 +1,4 @@
-//second file comments
+//second file comments more
 //some code
 resolved conflict
 local code
