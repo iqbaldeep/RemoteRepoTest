@@ -1,4 +1,4 @@
 //second file comments
 //some code
-code
+code after resolving conflict
 
