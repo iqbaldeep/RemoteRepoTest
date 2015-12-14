@@ -3,4 +3,4 @@
 resolved conflict
 local code
 remote code
-more local code
+more resolved code
